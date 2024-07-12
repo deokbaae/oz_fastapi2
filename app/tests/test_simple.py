@@ -1,3 +1,3 @@
 def test_obvious() -> None:
-    print('ihihihihi')
+    print("ihihihihi")
     assert True
